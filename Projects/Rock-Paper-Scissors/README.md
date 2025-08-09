@@ -5,11 +5,9 @@
 
 ##  Table of Contents
 1. [Overview](#overview)
-2. [Motivation](#motivation)
-3. [Features](#features)
+2. [Features](#features)
 4. [Installation](#installation)
-5. [Usage](#usage)
-6. [Screenshots (if any)](#screenshots)
+5. [Screenshots (if any)](#screenshots)
 7. [Contributing](#contributing)
 8. [Credits](#credits)
 9. [License](#license)
