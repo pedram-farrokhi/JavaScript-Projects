@@ -1,18 +1,5 @@
 # Rock-Paper-Scissors Game
 
-
----
-
-##  Table of Contents
-1. [Overview](#overview)
-2. [Features](#features)
-4. [Installation](#installation)
-5. [Game overview](#game-overview)
-6. [Credits](#credits)
-7. [License](#license)
-
----
-
 ##  Overview
 This is a simple Rock-Paper-Scissors game developed in JavaScript, CSS, and HTML. The core logic is inspired by a YouTube tutorial, but this version includes additional features to enhance usability and game dynamics.
 
