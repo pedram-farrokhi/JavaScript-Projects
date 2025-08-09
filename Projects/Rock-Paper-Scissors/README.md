@@ -1,5 +1,7 @@
 # #️⃣ Rock-Paper-Scissors Game   
-🎮 A classic Rock Paper Scissors game built with HTML, CSS, and JavaScript.
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 
 ## 📘 Overview
 This is a simple Rock-Paper-Scissors game developed in JavaScript, CSS, and HTML. The core logic is inspired by a YouTube tutorial, but this version includes additional features to enhance usability and game dynamics.
