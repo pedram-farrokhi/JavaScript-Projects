@@ -1,13 +1,11 @@
 # #️⃣ Rock-Paper-Scissors Game   
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-FFD600?style=for-the-badge&logo=javascript&logoColor=black&labelColor=FFD600&color=black)
+![HTML5](https://img.shields.io/badge/HTML5-E44D26?style=for-the-badge&logo=html5&logoColor=white&labelColor=E44D26)
+![CSS3](https://img.shields.io/badge/CSS3-2965F1?style=for-the-badge&logo=css3&logoColor=white&labelColor=2965F1)   
 ![GitHub Repo Size](https://img.shields.io/github/repo-size/pedram-farrokhi/JavaScript-Projects?color=orange)
 ![GitHub Last Commit](https://img.shields.io/github/last-commit/pedram-farrokhi/JavaScript-Projects?color=blue)
 ![GitHub License](https://img.shields.io/github/license/pedram-farrokhi/JavaScript-Projects?color=green)  
-![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
-![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white)
+
 
 ## 📘 Overview
 This is a simple Rock-Paper-Scissors game developed in JavaScript, CSS, and HTML. The core logic is inspired by a YouTube tutorial, but this version includes additional features to enhance usability and game dynamics.
