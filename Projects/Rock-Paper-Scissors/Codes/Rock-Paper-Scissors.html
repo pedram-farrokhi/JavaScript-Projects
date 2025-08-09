@@ -10,12 +10,47 @@
   </head>
   <body>
     <section class="container">
+      <div class="scoreBox">
+        <div class="scoreBoard">scores :</div>
+        <span class="Reset">
+          <img src="images/violet-reset-button.png" alt="" />
+        </span>
+      </div>
       <div class="result_field">
+        <div
+          class="result_images_labels"
+          style="
+            display: flex;
+            justify-content: center;
+            align-items: flex-end;
+            column-gap: 7rem;
+            margin-bottom: 0.5rem;
+          "
+        >
+          <span
+            style="
+              color: #7d2ae8;
+              font-size: 2rem;
+              font-weight: 500;
+              margin-right: 2.5rem;
+            "
+            >CPU</span
+          >
+          <span
+            style="
+              color: #7d2ae8;
+              font-size: 2rem;
+              font-weight: 500;
+              margin-left: 2.5rem;
+            "
+            >User</span
+          >
+        </div>
         <div class="result_images">
-          <span class="user_result">
+          <span class="CPU_result">
             <img src="images/rock.png" alt="" />
           </span>
-          <span class="CPU_result">
+          <span class="user_result">
             <img src="images/rock.png" alt="" />
           </span>
         </div>
@@ -36,12 +71,10 @@
           <p>scissor</p>
         </span>
       </div>
-
-      <p class="scores">scores</p>
     </section>
 
     <script src="Rock-Paper-Scissors.js" defer></script>
   </body>
 </html>
 
-<!--11:18-->
+<!--  16:22  -->
