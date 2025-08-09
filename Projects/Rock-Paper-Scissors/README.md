@@ -7,10 +7,9 @@
 1. [Overview](#overview)
 2. [Features](#features)
 4. [Installation](#installation)
-5. [Screenshots (if any)](#screenshots)
-7. [Contributing](#contributing)
-8. [Credits](#credits)
-9. [License](#license)
+5. [Game overview](#game-overview)
+6. [Credits](#credits)
+7. [License](#license)
 
 ---
 
@@ -39,7 +38,7 @@ This is a simple Rock-Paper-Scissors game developed in JavaScript, CSS, and HTML
    ```bash
     cd JavaScript-Projects/Projects/Rock-Paper-Scissors
 
-# website over view : 
+## game-overview  
 ![RPS site](https://github.com/user-attachments/assets/3014a771-6b90-4cb4-9cf5-e45d5c0c206d)  
 
 
