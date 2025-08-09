@@ -1,6 +1,5 @@
 # Rock-Paper-Scissors Game
 
-**[Optional: Add a one-line tagline here — e.g., "A fun, interactive Rock-Paper-Scissors game built from a tutorial, with extra features!" ]**
 
 ---
 
