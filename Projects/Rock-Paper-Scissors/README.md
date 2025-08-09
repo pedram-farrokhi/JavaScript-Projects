@@ -34,5 +34,5 @@ This is a simple Rock-Paper-Scissors game developed in JavaScript, CSS, and HTML
 
 - **YouTube Video**: [Rock Paper Scissors Game Tutorial](https://youtu.be/RC7NbjwP3QA?si=gxtROgI6FvNb0rs8)
   - **Creator**: [CodeWithHarry](https://www.youtube.com/@CodingLabYT)
-  - **Description**: This video provided the foundational logic and structure for the game, serving as the primary reference for the project's development.
+  - **Description**: This video provided the primary reference for the project's development.
 
