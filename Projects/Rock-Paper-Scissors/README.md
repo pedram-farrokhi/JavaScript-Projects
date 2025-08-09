@@ -20,13 +20,10 @@ This is a simple Rock-Paper-Scissors game developed in JavaScript, CSS, and HTML
 
 ##  Features (Added Beyond the YouTube Version)
 
-| Feature | Description |
-|---------|-------------|
-|  **Scoreboard** | Displays real-time scores during gameplay. |
-|  **Reset Button** | A clickable reset control to instantly clear scores. |
-|  **Auto-Reset on Page Refresh** | Scores are automatically reset whenever the page reloads. |
-|  **Player Titles** | Adds labels (e.g. "User" and "CPU") to clearly identify players in the UI. |
-
+1. **Scoreboard** – Displays real-time scores during the game.  
+2. **Reset Button** – A quick reset control to instantly clear scores.  
+3. **Auto-Reset on Page Refresh** – Scores automatically reset when the page is reloaded.  
+4. **Player Titles** – Displays labels for each player to improve clarity.
 ---
 
 ## 🚀 Installation
