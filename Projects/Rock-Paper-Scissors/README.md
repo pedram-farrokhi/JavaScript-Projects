@@ -1,5 +1,5 @@
 # Rock-Paper-Scissors Game
-***
+---
 ---
 
 ##  Overview
